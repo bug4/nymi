@@ -47,7 +47,7 @@ export default function App() {
     setMuted(audioRef.current.muted)
   }
 
-  const CONTRACT = 'Contract Address Loading ...' // <- replace with your CA
+  const CONTRACT = 'ATxYWyD57PQ89Z6AWppG6AqF4PyXuxBj64EbfYdPpump' // <- replace with your CA
 
   const copyCA = async () => {
     try {
